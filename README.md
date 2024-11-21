@@ -12,7 +12,7 @@
     <br />
     <a href="https://github.com/ProP0109/easy-consulting"><strong>Explore the code here »</strong></a>
     <br />
-    <a href="https://github.com/ProP0109/easy-consulting-backend"><strong>Backend code here »</strong></a>
+    <a href="https://wonderful-kowalevski-8c905c.netlify.app/">View Demo</a>
   </p>
 </div>
 
